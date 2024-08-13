@@ -7,5 +7,5 @@ Graphical User Interface (GUI): The game features an interactive GUI built using
 Two-Player Mode: Play against another human player on the same machine.
 <br>
 Win Detection: Automatically detects when a player has won or if the game ends in a draw.
-<be>
+<br>
 Responsive Design: The GUI updates in real-time as players take turns.
